@@ -1,4 +1,4 @@
-# Hi, I'm Afzaal 👋
+# Hi, I'm Aish 👋
 
 ## About Me
 
