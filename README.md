@@ -21,6 +21,13 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
 ### Languages
 - Python
 - Java
