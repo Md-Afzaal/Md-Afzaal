@@ -17,7 +17,10 @@
 ---
 
 ## Tech Stack
-
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot)
 ### Languages
 - Python
 - Java
