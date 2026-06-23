@@ -1,16 +1,70 @@
-## Hi there 👋
+# Hi, I'm Afzaal 👋
 
-<!--
-**Md-Afzaal/Md-Afzaal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🎓 Computer Science Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Interested in Backend Development and Web Applications
+
+🐍 Currently learning Python, Flask, SQLAlchemy, Java, and Spring Boot
+
+🗄️ Working with MySQL, SQLite, and MongoDB
+
+🌱 Building projects to improve problem-solving and development skills
+
+🇯🇵 Learning Japanese in my free time
+
+---
+
+## Tech Stack
+
+### Languages
+- Python
+- Java
+- SQL
+- C
+
+### Frameworks & Tools
+- Flask
+- Spring Boot
+- SQLAlchemy
+- Git
+- GitHub
+
+### Databases
+- MySQL
+- SQLite
+- MongoDB
+
+---
+
+## Featured Projects
+
+### Academic Analyzer
+A student performance analysis system that predicts scores and identifies at-risk subjects.
+
+### Journal App
+A Spring Boot and MongoDB application for managing journal entries through REST APIs.
+
+### Contact Manager
+A Flask application with CRUD operations and database integration for managing contacts.
+
+### QR Generator
+A simple Python application for generating QR codes.
+
+---
+
+## Current Goals
+
+- Build more complete backend projects
+- Improve Data Structures & Algorithms
+- Learn REST API design
+- Explore open-source contributions
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Md-Afzaal&show_icons=true)
+
+---
