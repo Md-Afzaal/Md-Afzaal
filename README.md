@@ -75,6 +75,6 @@ A simple Python application for generating QR codes.
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Md-Afzaal&show_icons=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Md-Afzaal&show_icons=true)
 
 ---
