@@ -103,12 +103,6 @@
 
 </div>
 
-### 📊 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Md-Afzaal&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%" />
-</div>
-
 ### 🐍 Contribution Snake
 
 <div align="center">
