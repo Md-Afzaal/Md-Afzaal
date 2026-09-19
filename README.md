@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi,%20I'm%20Aish&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20in%20the%20making&descSize=20&descAlignY=58" alt="header" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=640&height=50&lines=Computer+Science+Student+%F0%9F%8E%93;Building+backend+apps+with+Flask+%26+Spring+Boot;Turning+ideas+into+REST+APIs+%F0%9F%92%BB;Learning+Japanese+in+my+free+time+%F0%9F%87%AF%F0%9F%87%B5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1600&duration=3500&color=36BCF7&center=true&vCenter=true&width=640&height=50&lines=Computer+Science+Student+%F0%9F%8E%93;Building+backend+apps+with+Flask+%26+Spring+Boot;Turning+ideas+into+REST+APIs+%F0%9F%92%BB;Learning+Japanese+in+my+free+time+%F0%9F%87%AF%F0%9F%87%B5" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -14,8 +14,9 @@
 
 </div>
 
----
-
+<div align="center">
+  <img src="./assets/divider.svg" width="100%" alt="divider" />
+</div>
 ## 👨‍💻 About Me
 
 <img align="right" width="320" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" />
@@ -29,8 +30,9 @@
 
 <br/><br/>
 
----
-
+<div align="center">
+  <img src="./assets/divider.svg" width="100%" alt="divider" />
+</div>
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -50,8 +52,9 @@
 
 </div>
 
----
-
+<div align="center">
+  <img src="./assets/divider.svg" width="100%" alt="divider" />
+</div>
 ## 🚀 Featured Projects
 
 <table>
@@ -82,8 +85,9 @@
   </tr>
 </table>
 
----
-
+<div align="center">
+  <img src="./assets/divider.svg" width="100%" alt="divider" />
+</div>
 ## 🎯 Current Goals
 
 - [ ] Build more complete backend projects
@@ -92,8 +96,9 @@
 - [ ] Explore open-source contributions
 - [ ] Reach conversational Japanese 🇯🇵
 
----
-
+<div align="center">
+  <img src="./assets/divider.svg" width="100%" alt="divider" />
+</div>
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -117,8 +122,9 @@
   </picture>
 </div>
 
----
-
+<div align="center">
+  <img src="./assets/divider.svg" width="100%" alt="divider" />
+</div>
 <div align="center">
 
 ⭐ *Thanks for stopping by! Feel free to explore my projects.*
