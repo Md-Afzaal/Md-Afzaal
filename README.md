@@ -57,8 +57,8 @@
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h3>📓 Journal App</h3>
-      <p>A Spring Boot and MongoDB application for managing journal entries through REST APIs.</p>
+      <h3>Network log analyser</h3>
+      <p>A A Java-based network log analysis system designed to parse, analyze, filter, sort, and detect suspicious patterns in network logs.</p>
       <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white" />
       <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
     </td>
