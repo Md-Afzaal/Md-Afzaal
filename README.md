@@ -18,7 +18,6 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" />
 
 - 🎓 Computer Science student
 - 💻 Interested in **Backend Development** and **Web Applications**
