@@ -31,7 +31,7 @@
 <br/><br/>
 
 <div align="center">
-  <img src="./asset/divider.svg" width="100%" alt="divider" />
+  <img src="./assets/divider.svg" width="100%" alt="divider" />
 </div>
 ## 🛠️ Tech Stack
 
@@ -53,7 +53,7 @@
 </div>
 
 <div align="center">
-  <img src="./asset/divider.svg" width="100%" alt="divider" />
+  <img src="./assets/divider.svg" width="100%" alt="divider" />
 </div>
 ## 🚀 Featured Projects
 
@@ -86,7 +86,7 @@
 </table>
 
 <div align="center">
-  <img src="./asset/divider.svg" width="100%" alt="divider" />
+  <img src="./assets/divider.svg" width="100%" alt="divider" />
 </div>
 ## 🎯 Current Goals
 
@@ -97,7 +97,7 @@
 - [ ] Reach conversational Japanese 🇯🇵
 
 <div align="center">
-  <img src="./asset/divider.svg" width="100%" alt="divider" />
+  <img src="./assets/divider.svg" width="100%" alt="divider" />
 </div>
 ## 📈 GitHub Stats
 
@@ -123,7 +123,7 @@
 </div>
 
 <div align="center">
-  <img src="./asset/divider.svg" width="100%" alt="divider" />
+  <img src="./assets/divider.svg" width="100%" alt="divider" />
 </div>
 <div align="center">
 
