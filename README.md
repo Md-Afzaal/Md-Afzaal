@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi,%20I'm%20Aish&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20in%20the%20making&descSize=20&descAlignY=58" alt="header" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=640&height=50&lines=Computer+Science+Student+%F0%9F%8E%93;Building+backend+apps+with+Flask+%26+Spring+Boot+%F0%9F%9A%80;Turning+ideas+into+REST+APIs+%F0%9F%92%BB;Learning+Japanese+in+my+free+time+%F0%9F%87%AF%F0%9F%87%B5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=640&height=50&lines=Computer+Science+Student+%F0%9F%8E%93;Building+backend+apps+with+Flask+%26+Spring+Boot;Turning+ideas+into+REST+APIs+%F0%9F%92%BB;Learning+Japanese+in+my+free+time+%F0%9F%87%AF%F0%9F%87%B5" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -18,6 +18,7 @@
 
 ## 👨‍💻 About Me
 
+<img align="right" width="320" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" />
 
 - 🎓 Computer Science student
 - 💻 Interested in **Backend Development** and **Web Applications**
@@ -38,12 +39,16 @@
 
 </div>
 
+<div align="center">
+
 | Category | Tools |
-|---|---|
+|:---:|:---:|
 | **Languages** | Python · Java · SQL · C |
 | **Frameworks & Libraries** | Flask · Spring Boot · SQLAlchemy |
 | **Databases** | MySQL · SQLite · MongoDB |
 | **Tools** | Git · GitHub |
+
+</div>
 
 ---
 
@@ -57,10 +62,9 @@
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h3>Network log analyser</h3>
-      <p>A A Java-based network log analysis system designed to parse, analyze, filter, sort, and detect suspicious patterns in network logs.</p>
-      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+      <h3>🛡️ Network Log Analyzer</h3>
+      <p>A Java-based network log analysis system designed to parse, analyze, filter, sort, and detect suspicious patterns in network logs.</p>
+      <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" />
     </td>
   </tr>
   <tr>
